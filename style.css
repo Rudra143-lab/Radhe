@@ -1,0 +1,19 @@
+#myNavbar{
+    list-style:none;
+    position: sticky;
+    cursor: pointer;
+ 
+}
+#main{
+    width: 1200px;
+    height: 900px;
+    border border-style: solid;
+    border-width: 10px;
+}
+
+
+h1{
+    border-style: solid;
+   border-width: 3px;
+}
+
